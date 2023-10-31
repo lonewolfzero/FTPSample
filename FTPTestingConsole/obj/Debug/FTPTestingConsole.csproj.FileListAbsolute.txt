@@ -1,0 +1,7 @@
+D:\BindingSnap\FTPTestingConsole\FTPTestingConsole\bin\Debug\FTPTestingConsole.exe.config
+D:\BindingSnap\FTPTestingConsole\FTPTestingConsole\bin\Debug\FTPTestingConsole.exe
+D:\BindingSnap\FTPTestingConsole\FTPTestingConsole\bin\Debug\FTPTestingConsole.pdb
+D:\BindingSnap\FTPTestingConsole\FTPTestingConsole\bin\Debug\Renci.SshNet.dll
+D:\BindingSnap\FTPTestingConsole\FTPTestingConsole\bin\Debug\Renci.SshNet.xml
+D:\BindingSnap\FTPTestingConsole\FTPTestingConsole\obj\Debug\FTPTestingConsole.exe
+D:\BindingSnap\FTPTestingConsole\FTPTestingConsole\obj\Debug\FTPTestingConsole.pdb
